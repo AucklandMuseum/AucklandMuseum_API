@@ -11,4 +11,4 @@ Quick Navigation:
 
 (3) [Collection Area Guides for Field Usage](https://github.com/AucklandMuseum/_API/wiki/(3)-Collection-Area-Guides-for-Field-Usage)
 
-(4) [Complex Searches and Additional Tips](https://github.com/AucklandMuseum/_API/wiki/(4)-Complex-Searches-and-Additional-Tips)
+(4) [Additional Tips](https://github.com/AucklandMuseum/_API/wiki/(4)-Additional-Tips)
